@@ -10,8 +10,9 @@ A list of my current certifications:
 
 -   MassCyberCenter: [Cybersecurity Mentorship Program](./masscybercenter_completion.pdf) (December 20th, 2023)
     <br>Presented [Automated-Vulnerability-Scanner](https://github.com/WillMartin03/Automated-Vulnerability-Scanner)
--   American Red Cross - [Adult and Pediatric First Aid/CPR/AED](./arc_apfa_cpr_aed.pdf) (Valid 06/02/2022 - 06/02/24)
+-   American Red Cross - [Adult and Pediatric First Aid/CPR/AED](./arc_apfa_cpr_aed.pdf) (Valid 06/02/2022 - 06/02/2024)
 -   American Heart Association - [BASIC LIFE SUPPORT](./aha_bls.pdf) (Valid 07/12/2023 - 07/12/2025)
+-   Commonwealth of Massachusetts - [BASIC FIREARMS SAFETY](./basic_firearms_safety.pdf)
 
 ## Main Technologies
 
