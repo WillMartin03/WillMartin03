@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am currently a Computer Science student at the University of Massachusetts Dartmouth. I have a concentration in Cybersecurity and a minor in business. I have been programming since I was 11-years-old, with my first programming language being Lua. I have been involved in business and management since 19, when [my best friend](https://github.com/tmbailey0304) and I opened our first successful website together.
+I am currently a Computer Science student at the University of Massachusetts Dartmouth. My major is <strong>Computer Science</strong>. I have a <strong>concentration in Cybersecurity</strong> alongside a <strong>minor in business</strong>. I have been programming since I was 11-years-old, with my first programming language being Lua. I have been involved in business and management since 19, when [my best friend](https://github.com/tmbailey0304) and I opened our first successful website together.
 
 ## Certifications
 
