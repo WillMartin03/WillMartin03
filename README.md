@@ -1,4 +1,4 @@
-# Hey there! I'm William Martin 👋🏻😁
+# Hey there! I'm William Martin
 
 ## About Me
 
